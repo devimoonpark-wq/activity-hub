@@ -1,0 +1,12 @@
+# Company performance data
+*.csv
+*.xlsx
+*.xls
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local application files
+.streamlit/secrets.toml
+.env
